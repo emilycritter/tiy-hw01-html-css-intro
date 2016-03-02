@@ -1,0 +1,28 @@
+body {
+  font-family: "Arial";
+  background: #FFFFCC;
+  color: #484848;
+}
+h1 {
+  font-family: "Verdana";
+}
+hr {
+  height: 1px;
+  background-color: #484848;
+  border:none;
+}
+h2{
+  font-weight: bold;
+  font-size: 18px;
+}
+.details {
+  font-size: 14px;
+  margin: 0% 5% 0% 5%;
+  text-align:justify;
+}
+.important {
+  font-weight: bold;
+}
+.example {
+  font-style: italic;
+}
